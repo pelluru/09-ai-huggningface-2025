@@ -1,4 +1,4 @@
-# TESTING ONLYYY
+# TESTING ONLY
 
 import os
 from langchain.text_splitter import RecursiveCharacterTextSplitter
