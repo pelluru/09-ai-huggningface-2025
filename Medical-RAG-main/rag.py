@@ -35,7 +35,6 @@ config = {
 llm = CTransformers(
     model=local_llm,
     model_type="mistral",
-    lib="avx2",
     **config
 )
 

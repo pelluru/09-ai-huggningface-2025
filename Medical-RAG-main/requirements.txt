@@ -13,3 +13,5 @@ python-multipart
 aiofiles
 urllib3==1.26.18
 langchain-text-splitters
+langchain_experimental
+langchain-community

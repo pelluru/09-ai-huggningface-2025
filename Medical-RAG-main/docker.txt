@@ -1,4 +1,4 @@
-1) download docket desktop
+1) download docker desktop
 2) open powershell
 3) do docker pull qdrant/qdrant
 4) docker images
